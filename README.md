@@ -1,6 +1,6 @@
-# ...........................
+# Curso Alura Oracle
 
-<em> Curso Alura Oracle </em>
+<em> Carpeta exclusiva para subir los trabajos realizados en clase. </em>
 
 ## :hammer:
 
